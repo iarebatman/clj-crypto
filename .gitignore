@@ -13,3 +13,5 @@ target
 /target
 pom.xml.asc
 /bin
+/.idea
+clj-crypto.iml
